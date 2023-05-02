@@ -1,0 +1,141 @@
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1300px;
+  }
+}
+@media (min-width: 1600px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1500px;
+  }
+}
+@media (max-width: 1024px) {
+  a.navbar-brand img {
+    width: 80px;
+  }
+  .navbar-light .navbar-nav .nav-link,
+  .navbar-light .navbar-nav .show > .nav-link {
+    padding: 0.5rem 1rem;
+  }
+  section.actionable-analytics .actionable-img-wrapper {
+    margin: 0;
+  }
+  .services-wrapper .content-wrapper {
+    margin: 0 15px;
+  }
+  section.over-clients .content-wrapper {
+    padding: 50px 40px 10px;
+  }
+  img.before-icon {
+    width: 70px;
+  }
+}
+@media (max-width: 768px) {
+  /* Header */
+  a.navbar-brand img {
+    width: 100px;
+  }
+  .navbar-light .navbar-nav .nav-link,
+  .navbar-light .navbar-nav .show > .nav-link {
+    text-align: center;
+  }
+  nav .right-btns {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  nav .right-btns button {
+    margin: 0 20px;
+  }
+  .navbar-collapse {
+    position: relative;
+  }
+
+  .p-60 {
+    padding: 30px 0;
+  }
+  section.actionable-analytics .content-wrapper,
+  section.news-blog .actionable-img-wrapper {
+    margin: 0;
+  }
+  .about-us .column-bg {
+    height: 400px;
+  }
+  .border-top-none {
+    border: 2px solid #000 !important;
+    border-top: none !important;
+  }
+  footer {
+    text-align: center;
+  }
+  .footer-menu-wrapper {
+    margin: 30px 0;
+  }
+}
+@media (max-width: 600px) {
+  .clip-text {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  section.banner button {
+    min-width: 100%;
+  }
+  br {
+    display: none;
+  }
+  section.actionable-analytics h2.title {
+    font-size: 38px;
+    line-height: 50px;
+  }
+  .about-content-wrapper {
+    padding: 50px 20px;
+  }
+  h5 {
+    font-size: 22px;
+  }
+  section.over-clients .content-wrapper,
+  .our-lovely-clients .content-wrapper {
+    padding: 10px;
+  }
+  section.footer-bottom span {
+    display: block;
+    visibility: hidden;
+    height: 15px;
+  }
+  img.before-icon {
+    width: 50px;
+  }
+  img.before-icon {
+    width: 50px;
+  }
+  nav .right-btns button {
+    display: block;
+    margin: 30px auto;
+  }
+}
+
+@media (max-width: 376px) {
+  h5 {
+    font-size: 18px;
+  }
+  section.actionable-analytics h2.title {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .p-60 {
+    padding: 10px 0;
+  }
+}
+@media (max-width: 320px) {
+  .clip-text {
+    font-size: 30px;
+    line-height: 44px;
+  }
+}

@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "Madefor-Text-ExtraBold";
+  src: url("../fonts/WixMadeforTextVF_W_Wght.woff2") format("woff2-variations"),
+    url("../fonts/WixMadeforTextVF_W_Wght.woff2") format("woff2"),
+    url("../fonts/WixMadeforTextVF_W_Wght.woff2") format("woff");
+  font-weight: 800;
+  font-display: block;
+}
+@font-face {
+  font-family: "Madefor-Text-Bold";
+  src: url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforTextVF_W_Wght.woff2")
+      format("woff2-variations"),
+    url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_Bd.woff2")
+      format("woff2"),
+    url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_Bd.woff")
+      format("woff");
+  font-weight: 700;
+  font-display: block;
+}
+@font-face {
+  font-family: "Madefor-Text-MediumBold";
+  src: url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforTextVF_W_Wght.woff2")
+      format("woff2-variations"),
+    url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_Md.woff2")
+      format("woff2"),
+    url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/WixMadefor/v3/WixMadeforText_W_Md.woff")
+      format("woff");
+  font-weight: 530;
+  font-display: block;
+}
+@font-face {
+  font-family: "Lulo-Clean-W01-One-Bold";
+  src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?#iefix");
+  src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?#iefix")
+      format("eot"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/aee74cb3-c913-4b54-9722-6001c92325f2.woff2")
+      format("woff2"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80de9d5d-ab5f-40ce-911b-104e51e93d7c.woff")
+      format("woff"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b46b05b-cfdd-4d82-8c2f-5c6cfba1fe60.ttf")
+      format("truetype"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/be340f0b-a2d4-41df-acb1-4dc124330a88.svg#be340f0b-a2d4-41df-acb1-4dc124330a88")
+      format("svg");
+  font-display: block;
+}
+@font-face {
+  font-family: "Helvetica-W01-Bold";
+  src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/f70da45a-a05c-490c-ad62-7db4894b012a.eot?#iefix");
+  src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/f70da45a-a05c-490c-ad62-7db4894b012a.eot?#iefix")
+      format("eot"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c5749443-93da-4592-b794-42f28d62ef72.woff")
+      format("woff"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf")
+      format("truetype"),
+    url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg#874bbc4a-0091-49f0-93ef-ea4e69c3cc7a")
+      format("svg");
+  font-display: block;
+}
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/roboto/v18/97uahxiqZRoncBaCEI3aW1tXRa8TVwTICgirnJhmVJw.woff2")
+      format("woff2"),
+    url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/roboto/v18/97uahxiqZRoncBaCEI3aWz8E0i7KZn-EPnyo3HZu7kw.woff")
+      format("woff");
+  font-display: block;
+}
